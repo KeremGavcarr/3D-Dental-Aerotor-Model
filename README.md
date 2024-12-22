@@ -24,7 +24,7 @@ This repository showcases a **highly detailed 3D model of a dental aerotor**, me
 ## 🎨 Preview
 
 ![image](https://github.com/user-attachments/assets/11e3935d-496e-464b-907b-2365903fedb0)
-r
+
 ---
 
 ## 🚀 How to Use
